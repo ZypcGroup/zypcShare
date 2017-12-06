@@ -6,7 +6,7 @@
 - *others* 目录下是其他资源分享
 
 #### 相关信息
-- 联系我们：admin@smartxupt.com
-- 官方网站：[点击这里](www.smartxupt.com)
-- 官方群博：[点击这里](blog.smartxupt.com)
+- 联系我们：admin@zypc.xupt.org
+- 官方网站：[点击这里](https://zypc.xupt.edu.cn/)
+- 官方群博：[点击这里]()
 
